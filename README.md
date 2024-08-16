@@ -1,2 +1,2 @@
-# my-repository-to-learn-authentication
+# my repository to learn authentication
 learning authentication in Git
